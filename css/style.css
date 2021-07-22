@@ -1031,6 +1031,9 @@ margin-bottom: 0.9rem;
     section.contact-us .contact-info-wrapper{
         margin-bottom: 0.5rem;
     }
+     .site-contant{
+        overflow-x: hidden;
+    }
 }
 
 /* Responsive design */
