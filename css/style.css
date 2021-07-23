@@ -1036,5 +1036,10 @@ margin-bottom: 0.9rem;
     }
 }
 
+@media  (max-width:720px){
+header.hero {
+    margin-top: 0rem
+}
+
 /* Responsive design */
 
