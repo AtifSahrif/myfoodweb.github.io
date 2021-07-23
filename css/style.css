@@ -1000,8 +1000,8 @@ margin-bottom: 0.9rem;
 
 @media  (max-width:576px){
     header.hero .hero-image{
-        right: -235px;
-        top: 150px;
+        right: -208px;
+        top: 40px;
     }
 
     header.hero{
