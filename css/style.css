@@ -924,6 +924,12 @@ margin-bottom: 0.9rem;
     height: 20px;
 }
 
+@media (max-width:1200px){
+header.hero .hero-image {
+    top: -42px;
+    right: -7px;
+}
+
 @media (max-width:992px) {
     .nav-trigger{
         display: block;
