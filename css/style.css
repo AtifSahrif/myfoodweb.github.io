@@ -1040,6 +1040,13 @@ margin-bottom: 0.9rem;
 header.hero {
     margin-top: 0rem
 }
+    @media (max-width:375px){
+        .hero-image img{
+            
+                width: 157px;
+                margin-right: 209px;
+                margin-top: 116px;
+        }
 
 /* Responsive design */
 
