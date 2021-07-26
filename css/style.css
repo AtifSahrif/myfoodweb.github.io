@@ -1056,10 +1056,10 @@ header.hero {
         
 @media (max-width:320px){
     .hero-image img{
-        width: 182px;
-        position: relative;
-        left: -239px;
-        top: 30px;
+             width: 183px;
+            position: relative;
+            left: -213px;
+            top: 135px;
     }
 
     header.hero div.container{
