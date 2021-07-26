@@ -1054,7 +1054,7 @@ header.hero {
                 margin-top: 116px;
         }
         
-@media (min-width:320px){
+@media (max-width:320px){
     .hero-image img{
              width: 183px;
             position: relative;
